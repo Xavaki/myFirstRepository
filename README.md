@@ -1,2 +1,3 @@
 # myFirstRepository
-Test repository 
+Hi there!
+
